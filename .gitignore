@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 Assets/Sound/*
 Content/Assets/*
+
+Windows/*
+Linux/*
